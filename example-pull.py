@@ -1,1 +1,1 @@
-print('Testing full fuction on github')
+print('Testing pull function in github')
